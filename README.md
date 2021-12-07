@@ -26,7 +26,7 @@
 
    From our analysis of the surrey data we also found the trends and factors that developers look into when considering a place for work.
 
-   (PIE CHARTS FROM Q3)
+![please work!](https://github.com/SadiqAFK/DataAnalysis-Final-Project/blob/main/job_factors.png?raw=true)
 
    As expected in any job market, the biggest reason a developer would choose to leave their job for a different one was for better compensation. Tech giants like Google and Facebook pay very good money to their developers, it’s no wonder that we found only about 7% of developers working in large corporations were very dissatisfied with their jobs. A result that peaked our interest however, was that the most important factors after money had to do with progression in the field. Whether that be using new technologies, or being able to promote to more senior or leadership positions. It seems that the culture of developers is to always meet the demand of the future. It makes sense that developers would look to constantly expand their skill sets and also find that there are many developers without degrees who are making the same amount of money as those with further education. The developer scene values skills rather than education level. 
 
