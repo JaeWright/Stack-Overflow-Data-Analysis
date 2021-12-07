@@ -20,8 +20,12 @@
    As a whole our results were what we expected based on current trends in the developer scene, and the ongoing change in the tech industry, however there were some results that caught our attention.
    We found that the average developer that identifies as a person of color (POC) makes about $20,000 dollars less per year in total compensation than one that doesn't identify as a POC. The result was shocking as we found both groups on average worked 40 hours per week.
     
+Compensation for people of colour
 ![please_work!](https://github.com/SadiqAFK/DataAnalysis-Final-Project/blob/main/POC_compensation.png?raw=true)
-![please_work!](https://github.com/SadiqAFK/DataAnalysis-Final-Project/blob/main/non_POC_compensation.png?raw=true)
+
+
+Compensation for non-people of colour
+![please_work!](https://github.com/SadiqAFK/DataAnalysis-Final-Project/blob/main/non_POC_Compensation.png?raw=true)
 
    From the graphs we created from the data, we found that the amount of non-POC developers almost doubled the amount of POC developers. From this observation we were able to infer that the stagger in salary numbers could be a result of the sample size difference for both groups. From the graphs we can see that the non-POC group has a better normal distribution thanks to its greater population in the average range of the data set($100K salary and 40 hours a week). This observation led us to question the actual diversity of POC in the developer workspace. We found that in the current hiring scene for developers, though efforts are being made to better diversify the space, we still have a long way to go. The pay gap may also be tributed to the lack of POC in senior or managerial positions. 
 
