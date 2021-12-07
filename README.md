@@ -46,6 +46,9 @@ Compensation for non-people of colour
 ### Acknowledgements:
 
    This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.
+   
+### README:
+   The full report will be found in https://github.com/SadiqAFK/DataAnalysis-Final-Project/tree/main/developer_survey_2020.
 
 ### Other's resources:
 
