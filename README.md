@@ -9,7 +9,7 @@
     
 #### Introduction:
 
-    The topic we are reporting on is the results of the “2020 Stack Overflow Developer Survey”. Stack Overflow’s annual survey has been the largest survey of programmers for over 10 years, which includes a massively diverse range of data from around the world. The survey was taken by nearly 65,000 people from the United States to Afghanistan.
+   The topic we are reporting on is the results of the “2020 Stack Overflow Developer Survey”. Stack Overflow’s annual survey has been the largest survey of programmers for over 10 years, which includes a massively diverse range of data from around the world. The survey was taken by nearly 65,000 people from the United States to Afghanistan.
     
     The most interesting aspect of the survey was the variety of questions asked. Many of the questions entail personal and work information which is informative, yet boring. More interestingly, however, are the questions which are about “for-fun” topics. For example, the dataset shows that 52% of respondents think “Hello, old friend” when searching for a coding solution online and notice that the link they are about to click on is purple, indicating that they have already visited the link. Not all of these “for-fun: topics are entirely useless, however. When asked about the steps taken when stuck on a coding problem, 90% of respondents indicate that they visit Stack Overflow for solutions. Like this question, many of the questions in the survey have a use in a massive variety of ways.
     
